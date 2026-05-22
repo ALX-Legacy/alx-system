@@ -1,17 +1,17 @@
-# ALX System
-Repositório destinado aos projetos Delphi da ALX System.
+# alx-system
+Este repositório armazena os projetos legados Delphi da ALX System.
 
-# Procedimentos iniciais
-Para obter uma cópia local, devidamente instalada e configurada, siga as instruções a seguir:
+## Como obter uma cópia
 
-## Clonagem
+Caso deseje obter uma cópia local:
 
-1. Clonar repositório:
-	```sh
-	git clone https://github.com/alexfdealmeida/alx-system.git
-	```
+  ```sh
+  git clone https://github.com/ALX-Legacy/alx-system.git
+  cd alx-system.git && ./getting-started.sh
+  ```
+  
+## Autor
+Alex Almeida
 
-2. Executar o script 'getting-started.sh' localizado no diretório raiz.
-	```sh
-	./getting-started.sh
-	```
+## Licença
+[MIT License](LICENSE)
